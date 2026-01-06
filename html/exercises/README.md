@@ -1,13 +1,5 @@
 # HTML exercises
 
-## Exercise #0: Inspect in the browser
-
-Open the example html page available here: [leandernikolaus.github.io/html-example](https://leandernikolaus.github.io/html-example/)
-Inspect the html source of the page using the developer tools.
-
-Then try to answer the questions at: [leandernikolaus.github.io/html-example/quiz.html](https://leandernikolaus.github.io/html-example/quiz.html)
-
-
 ## Exercise #1: Hello world
 
 Copy-paste the following snippet to a text editor and save it as exercise1.html.
